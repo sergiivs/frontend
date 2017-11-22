@@ -1,0 +1,42 @@
+
+ul{
+    color: blue;
+}  /*Селектор елементу*/
+
+/*.menu{
+   background: yellow;
+   list-style: none;
+}*/ /*селектор класу*/
+/*.underline {
+    text-decoration: underline;
+}*/
+/*#box{
+    text-decoration:overline;
+}*/ /*Селектор ідентифікатора*/
+
+/**{
+    border: 2px solid black;
+}*/ /*Селектор, який застосовується для всіх елементів на сторінці*/
+
+/*[type="text"]{
+    color: red;
+}*/ /*селектор атрибуту*/
+
+/*div p{
+    color: green;
+} *//*Селектор нащадка*/
+
+/*p{
+    color: bisque;
+} *//*селектор тега*/
+
+.menu .menu_item>a{
+    color: red;
+    text-decoration: none;
+  }/*дочірній селектор*/
+
+
+.menu .menu_item>a + ul{
+    background: green;
+}
+    /*селектор сестринський - */

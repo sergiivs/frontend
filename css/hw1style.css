@@ -1,0 +1,48 @@
+body{
+    background-color: #efefef;
+}
+h1{
+    text-align: center;
+}
+.img{
+    text-align: center;
+}
+#mainbox{
+    margin: auto;
+    padding-top: 1px;
+    padding-bottom: 30px;
+    width: 600px;
+    background-color: white;
+}
+.p2{
+    margin-left: 10px;
+    
+}
+/*.box2{
+    margin-left: 10px;
+}*/
+.box1{
+    margin: auto;
+    width: 500px;
+}
+.boxall{
+  margin: auto;
+  width: 500px;  
+}
+ul{
+    line-height: 25px;
+    padding-top: 5px
+}
+.phone{
+    margin-top: -9px;
+    margin-left: 10px;
+}
+.profile{
+    margin-bottom: -9px;
+    margin-top: 27px;
+    margin-left: 10px;
+}
+.underfeed{
+    margin-top: -9px;
+    margin-left: 10px;
+}
